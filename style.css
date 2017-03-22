@@ -11,8 +11,12 @@ h1{
 }
 p{
 
-    font-size: 24px;
-    color: blue;
+    -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s;
+    animation-name: swageffect;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
 }
 #penn{
     height: 50%;
