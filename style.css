@@ -10,7 +10,8 @@ h1{
     -webkit-animation-iteration-count: infinite;
 }
 p{
-
+    font-size: 60px;
+    color: #f34fff;
     -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
     -webkit-animation-duration: 1s;
     animation-name: swageffect;
