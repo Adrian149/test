@@ -18,6 +18,18 @@ p{
     animation-duration: 1s;
     animation-iteration-count: infinite;
     -webkit-animation-iteration-count: infinite;
+    #jukeboxtitle{
+    font-size: 16px;
+    font-style: oblique;
+    font-family: monospace;
+
+    -webkit-animation-name: chilleffect; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 5s;
+    animation-name: chilleffect;
+    font-size: 60px;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
 }
 #penn{
     height: 50%;
@@ -36,17 +48,4 @@ p{
    50%  {color:blue; font-size:60px;}
    75%  {color:green;}
    100% {color:red; font-size:40px;}
-}
-#jukeboxtitle{
-  font-size: 16px;
-  font-style: oblique;
-  font-family: monospace;
-
-  -webkit-animation-name: chilleffect; /* Safari 4.0 - 8.0 */
-  -webkit-animation-duration: 5s;
-  animation-name: chilleffect;
-  font-size: 60px;
-  animation-duration: 5s;
-  animation-iteration-count: infinite;
-  -webkit-animation-iteration-count: infinite;
 }
