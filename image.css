@@ -8,6 +8,8 @@ h1{
     animation-duration: 1s;
     animation-iteration-count: infinite;
     -webkit-animation-iteration-count: infinite;
+    font-family: 'Monoton', cursive;
+
 }
 p{
     font-size: 60px;
@@ -18,20 +20,8 @@ p{
     animation-duration: 1s;
     animation-iteration-count: infinite;
     -webkit-animation-iteration-count: infinite;
-}
-  #jukeboxtitle{
-    font-size: 16px;
-    font-style: oblique;
-    font-family: monospace;
+  }
 
-    -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 5s;
-    animation-name: chill effect;
-    font-size: 60px;
-    animation-duration: 5s;
-    animation-iteration-count: infinite;
-    -webkit-animation-iteration-count: infinite;
-}
 #penn{
     height: 50%;
     width: 50%;
