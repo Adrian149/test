@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>this is frieza </title>
+<link rel="stylesheet" href="style.css" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
+</head>
+<body>
+<h1>and his oppent gouk.</h1>
+<img scr"dragon.jpg">
+<img src="dragonball.jpg">
+<p>this will be the fight of the century.</p>
+<p>who will be the victorious</p>
+</body>
+</html>
